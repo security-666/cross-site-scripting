@@ -1,1 +1,1 @@
-# cross-site-scriptiong
+# cross-site-scripting
